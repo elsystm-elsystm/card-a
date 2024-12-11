@@ -15,4 +15,4 @@ var x = setInterval(function(){
     document.getElementById('date').innerHTML = currentDate;
     document.getElementById('time').innerHTML = currentTime;
     
-  } )
+  })
